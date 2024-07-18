@@ -31,5 +31,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at gauravgadhari21@gmail.com.
 
 ## How to View the Privacy Policy
+This privacy policy is hosted using GitHub Pages. You can view the privacy policy [here](https://GauravGadhari.github.io/Small-Effort-PrivacyPolicy/).
 
-This privacy policy is hosted using GitHub Pages. You can view the privacy policy [here]([https://GauravGadhari.github.io/small-effort-privacy-policy/](https://github.com/GauravGadhari/Smalll-Effort-PrivacyPolicy/blob/main/README.md)).
